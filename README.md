@@ -5,6 +5,6 @@ registration of multi stack movies to one movie
 
 
 
-Result Figure
+##Result Figure
 
 <img src="doc/demo.jpg" width="800" align="below">
