@@ -26,11 +26,11 @@ Image Processing Toolbox
 3. run the code (F5 or RUN). Select the folder.
 
 
-1. レジストしたい一連のスタック画像を1つのフォルダに入れておく。
+１．レジストしたい一連のスタック画像を1つのフォルダに入れておく。
 
-2. Stack_registration.mを開いて、パラメータを調整する。（GPUを使いたい場合は、 GPU_flagを1に設定する。）
+２．Stack_registration.mを開いて、パラメータを調整する。（GPUを使いたい場合は、 GPU_flagを1に設定する。）
 
-3. 実行し、フォルダを選択する。
+３．実行し、フォルダを選択する。
 
 ## Author
 Takehiro Ajioka 
