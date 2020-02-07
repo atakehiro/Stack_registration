@@ -3,6 +3,7 @@ registration of multi stack movies to one movie
 
 <img src="doc/abstract.jpg" width="800" align="below">
 
+After registration, it is good to concatenate the first stack and the all registered stacks.
 
 ## Result Figure
 
@@ -16,6 +17,19 @@ Image Processing Toolbox
 
 (optional) Parallel Computing Toolbox (for GPU use only)
 
+## Usage
+
+1. Keep Tiff stack images in one folder.
+
+2. Open "Stack_registration.m" and set the parameter. (if you're going to use GPU for calculation, GPU_flag must has the value '1'.)
+
+3. run the code (F5 or RUN). Select the folder.
+
+1. レジストしたい一連のスタック画像を1つのフォルダに入れておく。
+
+2. Stack_registration.mを開いて、パラメータを調整する。（GPUを使いたい場合は、 GPU_flagを1に設定する。）
+
+3. 実行し、フォルダを選択する。
 
 ## Author
 Takehiro Ajioka 
